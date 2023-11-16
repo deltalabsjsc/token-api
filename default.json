@@ -1,0 +1,25 @@
+{
+  "name": "Trustdex Default",
+  "timestamp": "2023-11-13T15:59:22.657Z",
+  "version": {
+    "major": 11,
+    "minor": 9,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://www.trustdex.finance/logo_page.png",
+  "keywords": [
+    "trustdex",
+    "default"
+  ],
+  "tokens": [
+      {
+        "name": "SUSHI Token",
+        "address": "0x9E8Dc774c146A85D02dC0837d62c6154391979ad",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "chainId": 1945,
+        "logoURI": "https://miaswap-img-s3.s3.ap-northeast-1.amazonaws.com/VNDC.png"
+      }
+   ]
+}
